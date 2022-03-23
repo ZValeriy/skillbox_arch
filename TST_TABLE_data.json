@@ -1,0 +1,3 @@
+{"name": "TST.MSP_FNS", "type": "TST_TABLE", "owner": "TST", "id": "TST.MSP_FNS"}
+{"name": "TST.DEAL2ACCT_SHIST", "type": "TST_TABLE", "owner": "TST", "id": "TST.DEAL2ACCT_SHIST"}
+{"name": "TST.C2CLINK_SHIST", "type": "TST_TABLE", "owner": "TST", "id": "TST.C2CLINK_SHIST"}

@@ -1,0 +1,85 @@
+{"name": "HADOOP.s_dmrb.ACCOUNT_SDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmrb.ACCOUNT_SDIM"}
+{"name": "HADOOP.s_dmrb.ACCOUNTEQTYPE_LDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmrb.ACCOUNTEQTYPE_LDIM"}
+{"name": "HADOOP.s_dwh.CARDTRNOPKIND_LDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.CARDTRNOPKIND_LDIM"}
+{"name": "HADOOP.s_dwh4dm.CLIENT_SDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh4dm.CLIENT_SDIM"}
+{"name": "HADOOP.s_dmrb.CLIENT2CATEGORY_SHIST", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmrb.CLIENT2CATEGORY_SHIST"}
+{"name": "HADOOP.s_dmrb.CLIENT2DMC_SHIST", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmrb.CLIENT2DMC_SHIST"}
+{"name": "HADOOP.s_dwh.CLIENTCATEGORY_LDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.CLIENTCATEGORY_LDIM"}
+{"name": "HADOOP.s_dwh4dm.CLIENTDEFAULT_SHIST", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh4dm.CLIENTDEFAULT_SHIST"}
+{"name": "HADOOP.s_dwh.COMPLCLNT2REPMEASURE_VHIST", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.COMPLCLNT2REPMEASURE_VHIST"}
+{"name": "HADOOP.s_dmrb.CURRENCY_SDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmrb.CURRENCY_SDIM"}
+{"name": "HADOOP.s_dwh4dm.DEALCLASS_SDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh4dm.DEALCLASS_SDIM"}
+{"name": "HADOOP.s_dwh4dm.DEALSTATUS_LOV", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh4dm.DEALSTATUS_LOV"}
+{"name": "HADOOP.s_dwh4dm.DEALTYPE_LOV", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh4dm.DEALTYPE_LOV"}
+{"name": "HADOOP.s_dwh4dm.DMC_SDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh4dm.DMC_SDIM"}
+{"name": "HADOOP.s_dwh.EXCHANGERATE_STAT", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.EXCHANGERATE_STAT"}
+{"name": "HADOOP.s_dwh4dm.PRODUCT_SDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh4dm.PRODUCT_SDIM"}
+{"name": "HADOOP.s_dmrb.PRODUCTGROUP_SDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmrb.PRODUCTGROUP_SDIM"}
+{"name": "HADOOP.s_dwh4dm.SPARKCOMPANY_SDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh4dm.SPARKCOMPANY_SDIM"}
+{"name": "HADOOP.s_dwh.SPARKCOMPANYADDINFO_VHIST", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.SPARKCOMPANYADDINFO_VHIST"}
+{"name": "HADOOP.s_dwh.SPARKFINREPFORM_SDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.SPARKFINREPFORM_SDIM"}
+{"name": "HADOOP.s_dwh.SPARKFINREPORT_HSTAT", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.SPARKFINREPORT_HSTAT"}
+{"name": "HADOOP.s_dwh.SPARKOKATO_SDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.SPARKOKATO_SDIM"}
+{"name": "HADOOP.s_dwh.SPARKWORKERSRANGE_SDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.SPARKWORKERSRANGE_SDIM"}
+{"name": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_IER_BASEINFO", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_IER_BASEINFO"}
+{"name": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_LER_BASEINFO", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_LER_BASEINFO"}
+{"name": "HADOOP.s_dwh.ACCOUNTGROUP_LDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.ACCOUNTGROUP_LDIM"}
+{"name": "HADOOP.s_dwh.SPARKOKOPF_SDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.SPARKOKOPF_SDIM"}
+{"name": "HADOOP.s_dwh.SPARKOKOGU_SDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.SPARKOKOGU_SDIM"}
+{"name": "HADOOP.s_dwh.CARDINTTYPE_SDIM", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.CARDINTTYPE_SDIM"}
+{"name": "HADOOP.s_dwh4dm.deal_edim ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh4dm.deal_edim "}
+{"name": "HADOOP.s_dmcb.ACCOUNTCLAUSE_SDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmcb.ACCOUNTCLAUSE_SDIM "}
+{"name": "HADOOP.s_dmcb.CBINDICATOR_LDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmcb.CBINDICATOR_LDIM "}
+{"name": "HADOOP.s_dwh.CLIENTCBQUESTIONNAIRE_VHIST ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.CLIENTCBQUESTIONNAIRE_VHIST "}
+{"name": "HADOOP.S_DWH4DM.CLIENTGROUP_LOV ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.S_DWH4DM.CLIENTGROUP_LOV "}
+{"name": "HADOOP.s_dwh.CLIENT2LOANRISKGROUP_VHIST ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.CLIENT2LOANRISKGROUP_VHIST "}
+{"name": "HADOOP.s_dmacrm.CLNT2COMPLMEASURTYPE_SHIST ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmacrm.CLNT2COMPLMEASURTYPE_SHIST "}
+{"name": "HADOOP.s_dmrb.COMMISSIONSRVC_SDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmrb.COMMISSIONSRVC_SDIM "}
+{"name": "HADOOP.s_dmacrm.COMPLIANCEMEASURTYPE_SDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmacrm.COMPLIANCEMEASURTYPE_SDIM "}
+{"name": "HADOOP.s_dwh.DEALACCOUNTCONTRACT_HDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.DEALACCOUNTCONTRACT_HDIM "}
+{"name": "HADOOP.s_dwh.DEALKIND_LDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.DEALKIND_LDIM "}
+{"name": "HADOOP.s_dwh.DEALLOAN_HDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.DEALLOAN_HDIM "}
+{"name": "HADOOP.l_deriveddata.V_OW_SB_DWH4DM_DEALRATEINFO_SHIST ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.l_deriveddata.V_OW_SB_DWH4DM_DEALRATEINFO_SHIST "}
+{"name": "HADOOP.s_dwh4dm.DEAL2DEAL_SHIST ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh4dm.DEAL2DEAL_SHIST "}
+{"name": "HADOOP.l_deriveddata.OW_SB_PAYMENTS_GROUPED ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.l_deriveddata.OW_SB_PAYMENTS_GROUPED "}
+{"name": "HADOOP.l_deriveddata.OW_SB_PAYMENTS_MARKED ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.l_deriveddata.OW_SB_PAYMENTS_MARKED "}
+{"name": "HADOOP.s_dwh.FTPALGORITHM_LOV ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.FTPALGORITHM_LOV "}
+{"name": "HADOOP.s_dwh.LOANRISKGROUP_SDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.LOANRISKGROUP_SDIM "}
+{"name": "HADOOP.s_dmcb.CARDTRANSACTION_MONTH_SAGG ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmcb.CARDTRANSACTION_MONTH_SAGG "}
+{"name": "HADOOP.S_DMCB.PAYDOCKIND_LOV ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.S_DMCB.PAYDOCKIND_LOV "}
+{"name": "HADOOP.s_dmrb.PRODUCT2PRODUCTGROUP_SHIST ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmrb.PRODUCT2PRODUCTGROUP_SHIST "}
+{"name": "HADOOP.s_dwh.RATETYPE_LOV ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.RATETYPE_LOV "}
+{"name": "HADOOP.S_DWH4DM.REPAYMENTORDER_SDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.S_DWH4DM.REPAYMENTORDER_SDIM "}
+{"name": "HADOOP.l_deriveddata.V_OW_SB_DWH_SPARKCOMPANY2OKVED_VHIST ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.l_deriveddata.V_OW_SB_DWH_SPARKCOMPANY2OKVED_VHIST "}
+{"name": "HADOOP.s_dwh.SPARKOKVED_SDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.SPARKOKVED_SDIM "}
+{"name": "HADOOP.s_dwh.SPARKREGION_SDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.SPARKREGION_SDIM "}
+{"name": "HADOOP.s_dwh.SPARKSTATCONTRACT_SAGG ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.SPARKSTATCONTRACT_SAGG "}
+{"name": "HADOOP.s_dwh.STOCKINDEXRATE_VHIST ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.STOCKINDEXRATE_VHIST "}
+{"name": "HADOOP.s_dmcb.TARIFFCLT2SPLACEHLDR_SHIST ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmcb.TARIFFCLT2SPLACEHLDR_SHIST "}
+{"name": "HADOOP.s_dwh.TARIFFCOLLECTION_SDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.TARIFFCOLLECTION_SDIM "}
+{"name": "HADOOP.s_dwh.TARIFFINDEX_SDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.TARIFFINDEX_SDIM "}
+{"name": "HADOOP.s_dmcb.TARIFFINDEX2COMSRVC_SHIST ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmcb.TARIFFINDEX2COMSRVC_SHIST "}
+{"name": "HADOOP.s_dwh.TARIFFOBJECT_LDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dwh.TARIFFOBJECT_LDIM "}
+{"name": "HADOOP.s_dmcb.DMINCB_CIBACCESS_UFI_SETUP_CB ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmcb.DMINCB_CIBACCESS_UFI_SETUP_CB "}
+{"name": "HADOOP.l_deriveddata.OW_SB_CBPL_MONTH_SAGG ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.l_deriveddata.OW_SB_CBPL_MONTH_SAGG "}
+{"name": "HADOOP.l_deriveddata.V_OW_SB_DMCB_ENCASHMENTTYPE_LDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.l_deriveddata.V_OW_SB_DMCB_ENCASHMENTTYPE_LDIM "}
+{"name": "HADOOP.l_deriveddata.V_OW_SB_DMCB_TBENCASHMENT_M_SAGG ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.l_deriveddata.V_OW_SB_DMCB_TBENCASHMENT_M_SAGG "}
+{"name": "HADOOP.l_deriveddata.V_OW_SB_DMCB_CBCLIENT_INDICATOR_SAGG ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.l_deriveddata.V_OW_SB_DMCB_CBCLIENT_INDICATOR_SAGG "}
+{"name": "HADOOP.l_deriveddata.V_OW_SB_DMRB_CLIENTCOMPENSATION_M_SAGG ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.l_deriveddata.V_OW_SB_DMRB_CLIENTCOMPENSATION_M_SAGG "}
+{"name": "HADOOP.l_deriveddata.V_OW_SB_DWH_TARIFF_HDIM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.l_deriveddata.V_OW_SB_DWH_TARIFF_HDIM "}
+{"name": "HADOOP.l_deriveddata.V_OW_SB_DMCB_TBPAYDOC_TRAN ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.l_deriveddata.V_OW_SB_DMCB_TBPAYDOC_TRAN "}
+{"name": "HADOOP.l_deriveddata.OW_SB_CLIENTBALANCE_SSTAT ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.l_deriveddata.OW_SB_CLIENTBALANCE_SSTAT "}
+{"name": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_LER_BRANCHES ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_LER_BRANCHES "}
+{"name": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_LER_FOUNDERFGN ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_LER_FOUNDERFGN "}
+{"name": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_LER_LICENSES_ACTIVITYKIND ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_LER_LICENSES_ACTIVITYKIND "}
+{"name": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_LER_REPRESENTATIVE_OFFICES ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_LER_REPRESENTATIVE_OFFICES "}
+{"name": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_LER_STATUSES ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_LER_STATUSES "}
+{"name": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_NBO_TAXPAID_INFO ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_NBO_TAXPAID_INFO "}
+{"name": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_NBO_REVENUE_EXPENDITURE ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_NBO_REVENUE_EXPENDITURE "}
+{"name": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_NBO_WORKERS ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_sourcedata.SSVD_EDFTSR_DATA_NBO_WORKERS "}
+{"name": "HADOOP.s_sourcedata.SANDBOX_DMREP_DEV_DATA_WA_VED_DECLARATION ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_sourcedata.SANDBOX_DMREP_DEV_DATA_WA_VED_DECLARATION "}
+{"name": "HADOOP. s_sourcedata.SSVD_EDFTSR_DATA_IER_LICENSES_ACTIVITYKIND ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP. s_sourcedata.SSVD_EDFTSR_DATA_IER_LICENSES_ACTIVITYKIND "}
+{"name": "HADOOP. s_sourcedata.SSVD_EDFTSR_DATA_LER_PARENTORGS ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP. s_sourcedata.SSVD_EDFTSR_DATA_LER_PARENTORGS "}
+{"name": "HADOOP.s_sourcedata.HDB_DMHDB_V_REPORT_SOK_LM ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_sourcedata.HDB_DMHDB_V_REPORT_SOK_LM "}
+{"name": "HADOOP.l_crm.CPR_GROUPS_MMB_SKB ", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.l_crm.CPR_GROUPS_MMB_SKB "}
+{"name": "HADOOP.s_dmcb.CBIND2REPIND_SHIST", "type": "HADOOP", "owner": "HADOOP", "id": "HADOOP.s_dmcb.CBIND2REPIND_SHIST"}
