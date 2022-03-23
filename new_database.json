@@ -326,17 +326,11 @@
 {"id": "38", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DEALS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
 {"id": "39", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_PERIOD_MONTHS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_PERIOD_MONTHS", "labels": ["Node"]}}
 {"id": "40", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_PERIOD_MONTHS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
-{"id": "41", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTTRNRATES_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.BIN$00TVLWD6ZffgU0i+GaxbEw==$0", "labels": ["Node"]}}
-{"id": "42", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CURRTARIFFCOLL_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.BIN$00TVLWEBZffgU0i+GaxbEw==$0", "labels": ["Node"]}}
-{"id": "43", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_NEWDEALRATES_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.BIN$00TVLWD9ZffgU0i+GaxbEw==$0", "labels": ["Node"]}}
-{"id": "44", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_CURRTARIFFCOLL_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.BIN$00TVLWETZffgU0i+GaxbEw==$0", "labels": ["Node"]}}
 {"id": "45", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.C2CLINK_SHIST", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_C2CLINK_SHIST", "labels": ["Node"]}}
 {"id": "46", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.MSP_FNS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_MSP_FNS", "labels": ["Node"]}}
 {"id": "47", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_SKB_PERIMETER", "labels": ["Node"]}}
 {"id": "48", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.HDB_SOK_LM_EXT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.W_HDB_SOK_LM_EXT", "labels": ["Node"]}}
 {"id": "49", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.DEAL2ACCT_SHIST", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_DEAL2ACCT_SHIST", "labels": ["Node"]}}
-{"id": "50", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_NEWDEALRATES_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.BIN$00TVLWEPZffgU0i+GaxbEw==$0", "labels": ["Node"]}}
-{"id": "51", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTPRDRATES_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.BIN$00TVLWD5ZffgU0i+GaxbEw==$0", "labels": ["Node"]}}
 {"id": "52", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_ACTIVE_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_ACTIVE_ACCOUNT", "labels": ["Node"]}}
 {"id": "53", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTIVE_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
 {"id": "54", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTIVE_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENT_SDIM", "labels": ["Node"]}}
