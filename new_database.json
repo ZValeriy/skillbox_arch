@@ -1,0 +1,573 @@
+{"type": "node", "id": "OWSB_HIVE.OWSB_KLO_PNL_UNMERGED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_KLO_PNL_UNMERGED", "id": "OWSB_HIVE.OWSB_KLO_PNL_UNMERGED", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_KLO_PNL_UNMERGED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_KLO_PNL_UNMERGED", "id": "OWSB_HIVE.V_KLO_PNL_UNMERGED", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_DMC_CLIENT2DMC", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_DMC_CLIENT2DMC", "id": "OWSB_HIVE.OWSB_DMC_CLIENT2DMC", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_DMC_CLIENT2DMC", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_DMC_CLIENT2DMC", "id": "OWSB_HIVE.V_DMC_CLIENT2DMC", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_DMC_SB", "id": "OWSB_HIVE.OWSB_DMC_SB", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_DMC_SB", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_DMC_SB", "id": "OWSB_HIVE.V_DMC_SB", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_KLO_PNL", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_KLO_PNL", "id": "OWSB_HIVE.OWSB_KLO_PNL", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_KLO_PNL", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_KLO_PNL", "id": "OWSB_HIVE.V_KLO_PNL", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_KLO_BALANCE_UNMERGED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_KLO_BALANCE_UNMERGED", "id": "OWSB_HIVE.OWSB_KLO_BALANCE_UNMERGED", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_KLO_BALANCE_UNMERGED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_KLO_BALANCE_UNMERGED", "id": "OWSB_HIVE.V_KLO_BALANCE_UNMERGED", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_KLO_BALANCE", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_KLO_BALANCE", "id": "OWSB_HIVE.OWSB_KLO_BALANCE", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_KLO_BALANCE", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_KLO_BALANCE", "id": "OWSB_HIVE.V_KLO_BALANCE", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_3TO4_CCODE_MAPPING", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_3TO4_CCODE_MAPPING", "id": "OWSB_HIVE.OWSB_3TO4_CCODE_MAPPING", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_3TO4_CCODE_MAPPING", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_3TO4_CCODE_MAPPING", "id": "OWSB_HIVE.V_3TO4_CCODE_MAPPING", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_DEALS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_DEALS", "id": "OWSB_HIVE.OWSB_DEALS", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_DEALS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_DEALS", "id": "OWSB_HIVE.V_DEALS", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_PERIOD_MONTHS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_PERIOD_MONTHS", "id": "OWSB_HIVE.OWSB_PERIOD_MONTHS", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_PERIOD_MONTHS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_PERIOD_MONTHS", "id": "OWSB_HIVE.V_PERIOD_MONTHS", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.V_ACTTRNRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_ACTTRNRATES_SDIM", "id": "OWSB_HIVE.V_ACTTRNRATES_SDIM", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.V_CURRTARIFFCOLL_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_CURRTARIFFCOLL_SDIM", "id": "OWSB_HIVE.V_CURRTARIFFCOLL_SDIM", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.V_NEWDEALRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_NEWDEALRATES_SDIM", "id": "OWSB_HIVE.V_NEWDEALRATES_SDIM", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_CURRTARIFFCOLL_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_CURRTARIFFCOLL_SDIM", "id": "OWSB_HIVE.OWSB_CURRTARIFFCOLL_SDIM", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.C2CLINK_SHIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.C2CLINK_SHIST", "id": "OWSB_HIVE.C2CLINK_SHIST", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.MSP_FNS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.MSP_FNS", "id": "OWSB_HIVE.MSP_FNS", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_SKB_PERIMETER", "id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.HDB_SOK_LM_EXT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.HDB_SOK_LM_EXT", "id": "OWSB_HIVE.HDB_SOK_LM_EXT", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.DEAL2ACCT_SHIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DEAL2ACCT_SHIST", "id": "OWSB_HIVE.DEAL2ACCT_SHIST", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_NEWDEALRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_NEWDEALRATES_SDIM", "id": "OWSB_HIVE.OWSB_NEWDEALRATES_SDIM", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_ACTPRDRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_ACTPRDRATES_SDIM", "id": "OWSB_HIVE.V_ACTPRDRATES_SDIM", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_ACTIVE_ACCOUNT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_ACTIVE_ACCOUNT", "id": "OWSB_HIVE.OWSB_ACTIVE_ACCOUNT", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_ACTIVE_ACCOUNT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_ACTIVE_ACCOUNT", "id": "OWSB_HIVE.V_ACTIVE_ACCOUNT", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_ACTIVE_SALARIES", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_ACTIVE_SALARIES", "id": "OWSB_HIVE.OWSB_ACTIVE_SALARIES", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_ACTIVE_SALARIES", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_ACTIVE_SALARIES", "id": "OWSB_HIVE.V_ACTIVE_SALARIES", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_ACTIVE_CARDS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_ACTIVE_CARDS", "id": "OWSB_HIVE.OWSB_ACTIVE_CARDS", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_ACTIVE_CARDS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_ACTIVE_CARDS", "id": "OWSB_HIVE.V_ACTIVE_CARDS", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_PAYMENTS_PAYER_INN", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_PAYMENTS_PAYER_INN", "id": "OWSB_HIVE.OWSB_PAYMENTS_PAYER_INN", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_PAYMENTS_PAYER_INN", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_PAYMENTS_PAYER_INN", "id": "OWSB_HIVE.V_PAYMENTS_PAYER_INN", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_PAYMENTS_BENEF_INN", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_PAYMENTS_BENEF_INN", "id": "OWSB_HIVE.OWSB_PAYMENTS_BENEF_INN", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_PAYMENTS_BENEF_INN", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_PAYMENTS_BENEF_INN", "id": "OWSB_HIVE.V_PAYMENTS_BENEF_INN", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_PERIOD_END_DATE", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_PERIOD_END_DATE", "id": "OWSB_HIVE.V_PERIOD_END_DATE", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.EXEC_OWSB_KLO_PNL_CLEANED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.EXEC_OWSB_KLO_PNL_CLEANED", "id": "OWSB_HIVE.EXEC_OWSB_KLO_PNL_CLEANED", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_REVENUE_SPARK", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_REVENUE_SPARK", "id": "OWSB_HIVE.OWSB_REVENUE_SPARK", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_REVENUE_SPARK", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_REVENUE_SPARK", "id": "OWSB_HIVE.V_REVENUE_SPARK", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_CURRENCY_ACCOUNT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_CURRENCY_ACCOUNT", "id": "OWSB_HIVE.OWSB_CURRENCY_ACCOUNT", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_CURRENCY_ACCOUNT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_CURRENCY_ACCOUNT", "id": "OWSB_HIVE.V_CURRENCY_ACCOUNT", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_USD_TO_RUB", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_USD_TO_RUB", "id": "OWSB_HIVE.OWSB_USD_TO_RUB", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_USD_TO_RUB", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_USD_TO_RUB", "id": "OWSB_HIVE.V_USD_TO_RUB", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_FNS_NAMING", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_FNS_NAMING", "id": "OWSB_HIVE.OWSB_FNS_NAMING", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_FNS_NAMING", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_FNS_NAMING", "id": "OWSB_HIVE.V_FNS_NAMING", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.V_OW_NEWDEALRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_OW_NEWDEALRATES_SDIM", "id": "OWSB_HIVE.V_OW_NEWDEALRATES_SDIM", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_OW_NEWDEALRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_OW_NEWDEALRATES_SDIM", "id": "OWSB_HIVE.OWSB_OW_NEWDEALRATES_SDIM", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.CLIENT_EMPLOYEES", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.CLIENT_EMPLOYEES", "id": "OWSB_HIVE.CLIENT_EMPLOYEES", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.V_OW_ACTPRDRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_OW_ACTPRDRATES_SDIM", "id": "OWSB_HIVE.V_OW_ACTPRDRATES_SDIM", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_OW_ACTPRDRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_OW_ACTPRDRATES_SDIM", "id": "OWSB_HIVE.OWSB_OW_ACTPRDRATES_SDIM", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_HDB_SOK_LM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_HDB_SOK_LM", "id": "OWSB_HIVE.V_HDB_SOK_LM", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.V_HDB_SOK_LM_EXT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_HDB_SOK_LM_EXT", "id": "OWSB_HIVE.V_HDB_SOK_LM_EXT", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.V_OW_ACTTRNRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_OW_ACTTRNRATES_SDIM", "id": "OWSB_HIVE.V_OW_ACTTRNRATES_SDIM", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_OW_ACTTRNRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_OW_ACTTRNRATES_SDIM", "id": "OWSB_HIVE.OWSB_OW_ACTTRNRATES_SDIM", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_OW_CURRTARIFFCOLL_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_OW_CURRTARIFFCOLL_SDIM", "id": "OWSB_HIVE.V_OW_CURRTARIFFCOLL_SDIM", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_OW_CURRTARIFFCOLL_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_OW_CURRTARIFFCOLL_SDIM", "id": "OWSB_HIVE.OWSB_OW_CURRTARIFFCOLL_SDIM", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_PNL_PRODUCTS_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_PNL_PRODUCTS_VOLUME", "id": "OWSB_HIVE.OWSB_PNL_PRODUCTS_VOLUME", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_PNL_PRODUCTS_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_PNL_PRODUCTS_VOLUME", "id": "OWSB_HIVE.V_PNL_PRODUCTS_VOLUME", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_TRANSACT_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_TRANSACT_VOLUME", "id": "OWSB_HIVE.OWSB_TRANSACT_VOLUME", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_TRANSACT_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_TRANSACT_VOLUME", "id": "OWSB_HIVE.V_TRANSACT_VOLUME", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_EXCHANGE_RATE", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_EXCHANGE_RATE", "id": "OWSB_HIVE.OWSB_EXCHANGE_RATE", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_EXCHANGE_RATE", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_EXCHANGE_RATE", "id": "OWSB_HIVE.V_EXCHANGE_RATE", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_SALARY_PROFIT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_SALARY_PROFIT", "id": "OWSB_HIVE.OWSB_SALARY_PROFIT", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_SALARY_PROFIT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_SALARY_PROFIT", "id": "OWSB_HIVE.V_SALARY_PROFIT", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_SALARY_RECIPIENT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_SALARY_RECIPIENT", "id": "OWSB_HIVE.OWSB_SALARY_RECIPIENT", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_SALARY_RECIPIENT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_SALARY_RECIPIENT", "id": "OWSB_HIVE.V_SALARY_RECIPIENT", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.EXEC_OWSB_KLO_BALANCE_CLEANED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.EXEC_OWSB_KLO_BALANCE_CLEANED", "id": "OWSB_HIVE.EXEC_OWSB_KLO_BALANCE_CLEANED", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.EXEC_OWSB_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.EXEC_OWSB_VOLUME", "id": "OWSB_HIVE.EXEC_OWSB_VOLUME", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.HDB_SOK_LM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.HDB_SOK_LM", "id": "OWSB_HIVE.HDB_SOK_LM", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_SKB_PERIMETER", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_SKB_PERIMETER", "id": "OWSB_HIVE.V_SKB_PERIMETER", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_UK_2_INN_SPARK_ALL", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_UK_2_INN_SPARK_ALL", "id": "OWSB_HIVE.OWSB_UK_2_INN_SPARK_ALL", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_UK_2_INN_SPARK_ALL", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_UK_2_INN_SPARK_ALL", "id": "OWSB_HIVE.V_UK_2_INN_SPARK_ALL", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_COMPANY_CONTRACT_SPARK", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_COMPANY_CONTRACT_SPARK", "id": "OWSB_HIVE.OWSB_COMPANY_CONTRACT_SPARK", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_COMPANY_CONTRACT_SPARK", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_COMPANY_CONTRACT_SPARK", "id": "OWSB_HIVE.V_COMPANY_CONTRACT_SPARK", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_FINANCE_RESULTS_SPARK", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_FINANCE_RESULTS_SPARK", "id": "OWSB_HIVE.OWSB_FINANCE_RESULTS_SPARK", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_FINANCE_RESULTS_SPARK", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_FINANCE_RESULTS_SPARK", "id": "OWSB_HIVE.V_FINANCE_RESULTS_SPARK", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_SPARK_NUM_EMP", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_SPARK_NUM_EMP", "id": "OWSB_HIVE.OWSB_SPARK_NUM_EMP", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_SPARK_NUM_EMP", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_SPARK_NUM_EMP", "id": "OWSB_HIVE.V_SPARK_NUM_EMP", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_SPARK_OKVED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_SPARK_OKVED", "id": "OWSB_HIVE.OWSB_SPARK_OKVED", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_SPARK_OKVED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_SPARK_OKVED", "id": "OWSB_HIVE.V_SPARK_OKVED", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_SPARK_REG_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_SPARK_REG_DATA", "id": "OWSB_HIVE.OWSB_SPARK_REG_DATA", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_SPARK_REG_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_SPARK_REG_DATA", "id": "OWSB_HIVE.V_SPARK_REG_DATA", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_SPARK_WEB_URLS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_SPARK_WEB_URLS", "id": "OWSB_HIVE.OWSB_SPARK_WEB_URLS", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_ACCOUNTS_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_ACCOUNTS_VOLUME", "id": "OWSB_HIVE.OWSB_ACCOUNTS_VOLUME", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_ACCOUNTS_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_ACCOUNTS_VOLUME", "id": "OWSB_HIVE.V_ACCOUNTS_VOLUME", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_ACQUIRING_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_ACQUIRING_VOLUME", "id": "OWSB_HIVE.OWSB_ACQUIRING_VOLUME", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_ACQUIRING_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_ACQUIRING_VOLUME", "id": "OWSB_HIVE.V_ACQUIRING_VOLUME", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_CARDS_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_CARDS_VOLUME", "id": "OWSB_HIVE.OWSB_CARDS_VOLUME", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_CARDS_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_CARDS_VOLUME", "id": "OWSB_HIVE.V_CARDS_VOLUME", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_CASH_CARD_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_CASH_CARD_VOLUME", "id": "OWSB_HIVE.OWSB_CASH_CARD_VOLUME", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_CASH_CARD_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_CASH_CARD_VOLUME", "id": "OWSB_HIVE.V_CASH_CARD_VOLUME", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_CASH_OPER_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_CASH_OPER_VOLUME", "id": "OWSB_HIVE.OWSB_CASH_OPER_VOLUME", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_CASH_OPER_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_CASH_OPER_VOLUME", "id": "OWSB_HIVE.V_CASH_OPER_VOLUME", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_CUR_CONV_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_CUR_CONV_VOLUME", "id": "OWSB_HIVE.OWSB_CUR_CONV_VOLUME", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_CUR_CONV_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_CUR_CONV_VOLUME", "id": "OWSB_HIVE.V_CUR_CONV_VOLUME", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_CUR_CTRL_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_CUR_CTRL_VOLUME", "id": "OWSB_HIVE.OWSB_CUR_CTRL_VOLUME", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_CUR_CTRL_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_CUR_CTRL_VOLUME", "id": "OWSB_HIVE.V_CUR_CTRL_VOLUME", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_CUR_PAY_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_CUR_PAY_VOLUME", "id": "OWSB_HIVE.OWSB_CUR_PAY_VOLUME", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_CUR_PAY_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_CUR_PAY_VOLUME", "id": "OWSB_HIVE.V_CUR_PAY_VOLUME", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_PAYMENTS_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_PAYMENTS_VOLUME", "id": "OWSB_HIVE.OWSB_PAYMENTS_VOLUME", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_PAYMENTS_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_PAYMENTS_VOLUME", "id": "OWSB_HIVE.V_PAYMENTS_VOLUME", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_SALARY_PROJECT_MONTH", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_SALARY_PROJECT_MONTH", "id": "OWSB_HIVE.OWSB_SALARY_PROJECT_MONTH", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_SALARY_PROJECT_MONTH", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_SALARY_PROJECT_MONTH", "id": "OWSB_HIVE.V_SALARY_PROJECT_MONTH", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.V_SPARK_WEB_URLS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_SPARK_WEB_URLS", "id": "OWSB_HIVE.V_SPARK_WEB_URLS", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_SOK_FINEREPORT_DMC", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_SOK_FINEREPORT_DMC", "id": "OWSB_HIVE.OWSB_SOK_FINEREPORT_DMC", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_SOK_FINEREPORT_DMC", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_SOK_FINEREPORT_DMC", "id": "OWSB_HIVE.V_SOK_FINEREPORT_DMC", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_SOK_FINEREPORT_INN", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_SOK_FINEREPORT_INN", "id": "OWSB_HIVE.OWSB_SOK_FINEREPORT_INN", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_SOK_FINEREPORT_INN", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_SOK_FINEREPORT_INN", "id": "OWSB_HIVE.V_SOK_FINEREPORT_INN", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.EXEC_OWSB_DEFAULT_FLAG", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.EXEC_OWSB_DEFAULT_FLAG", "id": "OWSB_HIVE.EXEC_OWSB_DEFAULT_FLAG", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_DEFAULT_FLAG", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_DEFAULT_FLAG", "id": "OWSB_HIVE.V_DEFAULT_FLAG", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.EXEC_OWSB_FTS_VED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.EXEC_OWSB_FTS_VED", "id": "OWSB_HIVE.EXEC_OWSB_FTS_VED", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_FTS_VED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_FTS_VED", "id": "OWSB_HIVE.V_FTS_VED", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_FNS_FIN_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_FNS_FIN_DATA", "id": "OWSB_HIVE.OWSB_FNS_FIN_DATA", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_FNS_FIN_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_FNS_FIN_DATA", "id": "OWSB_HIVE.V_FNS_FIN_DATA", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_FNS_INSURANCE_PAYMENTS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_FNS_INSURANCE_PAYMENTS", "id": "OWSB_HIVE.OWSB_FNS_INSURANCE_PAYMENTS", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_FNS_INSURANCE_PAYMENTS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_FNS_INSURANCE_PAYMENTS", "id": "OWSB_HIVE.V_FNS_INSURANCE_PAYMENTS", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_FNS_NUM_EMP_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_FNS_NUM_EMP_DATA", "id": "OWSB_HIVE.OWSB_FNS_NUM_EMP_DATA", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_FNS_NUM_EMP_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_FNS_NUM_EMP_DATA", "id": "OWSB_HIVE.V_FNS_NUM_EMP_DATA", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_FNS_REG_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_FNS_REG_DATA", "id": "OWSB_HIVE.OWSB_FNS_REG_DATA", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_FNS_REG_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_FNS_REG_DATA", "id": "OWSB_HIVE.V_FNS_REG_DATA", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_FNS_VED_FLAGS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_FNS_VED_FLAGS", "id": "OWSB_HIVE.OWSB_FNS_VED_FLAGS", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_FNS_VED_FLAGS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_FNS_VED_FLAGS", "id": "OWSB_HIVE.V_FNS_VED_FLAGS", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_FNS_ISSUES_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_FNS_ISSUES_DATA", "id": "OWSB_HIVE.OWSB_FNS_ISSUES_DATA", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_FNS_ISSUES_DATA_ALL", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_FNS_ISSUES_DATA_ALL", "id": "OWSB_HIVE.OWSB_FNS_ISSUES_DATA_ALL", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_FNS_ISSUES_DATA_ALL", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_FNS_ISSUES_DATA_ALL", "id": "OWSB_HIVE.V_FNS_ISSUES_DATA_ALL", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.V_FNS_ISSUES_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_FNS_ISSUES_DATA", "id": "OWSB_HIVE.V_FNS_ISSUES_DATA", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_BLACK_LIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_BLACK_LIST", "id": "OWSB_HIVE.OWSB_BLACK_LIST", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_BLACK_LIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_BLACK_LIST", "id": "OWSB_HIVE.V_BLACK_LIST", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_CLIENT_DMC", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_CLIENT_DMC", "id": "OWSB_HIVE.OWSB_CLIENT_DMC", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_CLIENT_DMC", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_CLIENT_DMC", "id": "OWSB_HIVE.V_CLIENT_DMC", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_EQ_NUM_EMP_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_EQ_NUM_EMP_DATA", "id": "OWSB_HIVE.OWSB_EQ_NUM_EMP_DATA", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_EQ_NUM_EMP_DATA_ALL", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_EQ_NUM_EMP_DATA_ALL", "id": "OWSB_HIVE.OWSB_EQ_NUM_EMP_DATA_ALL", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_EQ_NUM_EMP_DATA_ALL", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_EQ_NUM_EMP_DATA_ALL", "id": "OWSB_HIVE.V_EQ_NUM_EMP_DATA_ALL", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.V_EQ_NUM_EMP_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_EQ_NUM_EMP_DATA", "id": "OWSB_HIVE.V_EQ_NUM_EMP_DATA", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_MSP", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_MSP", "id": "OWSB_HIVE.OWSB_MSP", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_MSP", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_MSP", "id": "OWSB_HIVE.V_MSP", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_PAYMENTS_GROUPED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_PAYMENTS_GROUPED", "id": "OWSB_HIVE.OWSB_PAYMENTS_GROUPED", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_PAYMENTS_GROUPED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_PAYMENTS_GROUPED", "id": "OWSB_HIVE.V_PAYMENTS_GROUPED", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.OWSB_PAYMENTS_MARKED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OWSB_PAYMENTS_MARKED", "id": "OWSB_HIVE.OWSB_PAYMENTS_MARKED", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_HIVE.V_PAYMENTS_MARKED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_PAYMENTS_MARKED", "id": "OWSB_HIVE.V_PAYMENTS_MARKED", "type": "VIEW"}}
+{"type": "node", "id": "OWSB_HIVE.T_KLO_PNL_UNMERGED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_KLO_PNL_UNMERGED", "id": "OWSB_HIVE.T_KLO_PNL_UNMERGED", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.V_CBPL_MONTH_SAGG", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_CBPL_MONTH_SAGG", "id": "OWSB_HIVE.V_CBPL_MONTH_SAGG", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_DMC_CLIENT2DMC", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_DMC_CLIENT2DMC", "id": "OWSB_HIVE.T_DMC_CLIENT2DMC", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.CLIENT2DMC_SHIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.CLIENT2DMC_SHIST", "id": "OWSB_HIVE.CLIENT2DMC_SHIST", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_DMC_SB", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_DMC_SB", "id": "OWSB_HIVE.T_DMC_SB", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.CLIENT2CATEGORY_SHIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.CLIENT2CATEGORY_SHIST", "id": "OWSB_HIVE.CLIENT2CATEGORY_SHIST", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.CLIENTCATEGORY_LDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.CLIENTCATEGORY_LDIM", "id": "OWSB_HIVE.CLIENTCATEGORY_LDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DMC_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DMC_SDIM", "id": "OWSB_HIVE.DMC_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.CLIENT_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.CLIENT_SDIM", "id": "OWSB_HIVE.CLIENT_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_KLO_PNL", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_KLO_PNL", "id": "OWSB_HIVE.T_KLO_PNL", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.CURRENCY_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.CURRENCY_SDIM", "id": "OWSB_HIVE.CURRENCY_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.COMMISSIONSRVC_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.COMMISSIONSRVC_SDIM", "id": "OWSB_HIVE.COMMISSIONSRVC_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.ACCOUNTCLAUSE_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.ACCOUNTCLAUSE_SDIM", "id": "OWSB_HIVE.ACCOUNTCLAUSE_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_KLO_BALANCE_UNMERGED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_KLO_BALANCE_UNMERGED", "id": "OWSB_HIVE.T_KLO_BALANCE_UNMERGED", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.V_CLIENTBALANCE_SSTAT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_CLIENTBALANCE_SSTAT", "id": "OWSB_HIVE.V_CLIENTBALANCE_SSTAT", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_KLO_BALANCE", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_KLO_BALANCE", "id": "OWSB_HIVE.T_KLO_BALANCE", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_3TO4_CCODE_MAPPING", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_3TO4_CCODE_MAPPING", "id": "OWSB_HIVE.T_3TO4_CCODE_MAPPING", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.CBINDICATOR_LDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.CBINDICATOR_LDIM", "id": "OWSB_HIVE.CBINDICATOR_LDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.CBIND2REPIND_SHIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.CBIND2REPIND_SHIST", "id": "OWSB_HIVE.CBIND2REPIND_SHIST", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_DEALS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_DEALS", "id": "OWSB_HIVE.T_DEALS", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.REPAYMENTORDER_LDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.REPAYMENTORDER_LDIM", "id": "OWSB_HIVE.REPAYMENTORDER_LDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DEALSTATUS_LOV", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DEALSTATUS_LOV", "id": "OWSB_HIVE.DEALSTATUS_LOV", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DEALCLASS_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DEALCLASS_SDIM", "id": "OWSB_HIVE.DEALCLASS_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DEALLOAN_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DEALLOAN_SDIM", "id": "OWSB_HIVE.DEALLOAN_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DEAL2DEAL_SHIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DEAL2DEAL_SHIST", "id": "OWSB_HIVE.DEAL2DEAL_SHIST", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DEALTYPE_LOV", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DEALTYPE_LOV", "id": "OWSB_HIVE.DEALTYPE_LOV", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DEALKIND_LDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DEALKIND_LDIM", "id": "OWSB_HIVE.DEALKIND_LDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DEAL_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DEAL_SDIM", "id": "OWSB_HIVE.DEAL_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_PERIOD_MONTHS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_PERIOD_MONTHS", "id": "OWSB_HIVE.T_PERIOD_MONTHS", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_C2CLINK_SHIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_C2CLINK_SHIST", "id": "OWSB_HIVE.T_C2CLINK_SHIST", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_MSP_FNS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_MSP_FNS", "id": "OWSB_HIVE.T_MSP_FNS", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_SKB_PERIMETER", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_SKB_PERIMETER", "id": "OWSB_HIVE.T_SKB_PERIMETER", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.W_HDB_SOK_LM_EXT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.W_HDB_SOK_LM_EXT", "id": "OWSB_HIVE.W_HDB_SOK_LM_EXT", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_DEAL2ACCT_SHIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_DEAL2ACCT_SHIST", "id": "OWSB_HIVE.T_DEAL2ACCT_SHIST", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_ACTIVE_ACCOUNT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_ACTIVE_ACCOUNT", "id": "OWSB_HIVE.T_ACTIVE_ACCOUNT", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.ACCOUNTGROUP_LDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.ACCOUNTGROUP_LDIM", "id": "OWSB_HIVE.ACCOUNTGROUP_LDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.ACCOUNTEQTYPE_LDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.ACCOUNTEQTYPE_LDIM", "id": "OWSB_HIVE.ACCOUNTEQTYPE_LDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.ACCOUNT_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.ACCOUNT_SDIM", "id": "OWSB_HIVE.ACCOUNT_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DEALACCOUNTCONTRACT_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DEALACCOUNTCONTRACT_SDIM", "id": "OWSB_HIVE.DEALACCOUNTCONTRACT_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_ACTIVE_SALARIES", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_ACTIVE_SALARIES", "id": "OWSB_HIVE.T_ACTIVE_SALARIES", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.WA_V_CLIENTCOMPENSATION_M_SAGG", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.WA_V_CLIENTCOMPENSATION_M_SAGG", "id": "OWSB_HIVE.WA_V_CLIENTCOMPENSATION_M_SAGG", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_ACTIVE_CARDS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_ACTIVE_CARDS", "id": "OWSB_HIVE.T_ACTIVE_CARDS", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.CARDINTTYPE_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.CARDINTTYPE_SDIM", "id": "OWSB_HIVE.CARDINTTYPE_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.OW_CARDTRANSACTION_MONTH_SAGG", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OW_CARDTRANSACTION_MONTH_SAGG", "id": "OWSB_HIVE.OW_CARDTRANSACTION_MONTH_SAGG", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_PAYMENTS_PAYER_INN", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_PAYMENTS_PAYER_INN", "id": "OWSB_HIVE.T_PAYMENTS_PAYER_INN", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.EXEC_OWSB_PAYMENTS_MARKED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.EXEC_OWSB_PAYMENTS_MARKED", "id": "OWSB_HIVE.EXEC_OWSB_PAYMENTS_MARKED", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_PAYMENTS_BENEF_INN", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_PAYMENTS_BENEF_INN", "id": "OWSB_HIVE.T_PAYMENTS_BENEF_INN", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_PERIOD_END_DATE", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_PERIOD_END_DATE", "id": "OWSB_HIVE.T_PERIOD_END_DATE", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.UFI_SETUP_CB", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.UFI_SETUP_CB", "id": "OWSB_HIVE.UFI_SETUP_CB", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_PROFIT.T_KLO_PNL_CLEANED", "labels": ["Node"], "properties": {"name": "OWSB_PROFIT.T_KLO_PNL_CLEANED", "id": "OWSB_PROFIT.T_KLO_PNL_CLEANED", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_REVENUE_SPARK", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_REVENUE_SPARK", "id": "OWSB_HIVE.T_REVENUE_SPARK", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.SPARKCOMPANYADDINFO_VHIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.SPARKCOMPANYADDINFO_VHIST", "id": "OWSB_HIVE.SPARKCOMPANYADDINFO_VHIST", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.SPARKFINREPFORM_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.SPARKFINREPFORM_SDIM", "id": "OWSB_HIVE.SPARKFINREPFORM_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.SPARKFINREPORT_HSTAT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.SPARKFINREPORT_HSTAT", "id": "OWSB_HIVE.SPARKFINREPORT_HSTAT", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_CURRENCY_ACCOUNT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_CURRENCY_ACCOUNT", "id": "OWSB_HIVE.T_CURRENCY_ACCOUNT", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_USD_TO_RUB", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_USD_TO_RUB", "id": "OWSB_HIVE.T_USD_TO_RUB", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.EXCHANGERATE_STAT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.EXCHANGERATE_STAT", "id": "OWSB_HIVE.EXCHANGERATE_STAT", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_FNS_NAMING", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_FNS_NAMING", "id": "OWSB_HIVE.T_FNS_NAMING", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.SSVD_EDFTSR_DATA_LER_BASEINFO", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.SSVD_EDFTSR_DATA_LER_BASEINFO", "id": "OWSB_HIVE.SSVD_EDFTSR_DATA_LER_BASEINFO", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.SSVD_EDFTSR_DATA_IER_BASEINFO", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.SSVD_EDFTSR_DATA_IER_BASEINFO", "id": "OWSB_HIVE.SSVD_EDFTSR_DATA_IER_BASEINFO", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.OW_NEWDEALRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OW_NEWDEALRATES_SDIM", "id": "OWSB_HIVE.OW_NEWDEALRATES_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_OW_NEWDEALRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_OW_NEWDEALRATES_SDIM", "id": "OWSB_HIVE.T_OW_NEWDEALRATES_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.SSVD_EDFTSR_DATA_NBO_WORKERS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.SSVD_EDFTSR_DATA_NBO_WORKERS", "id": "OWSB_HIVE.SSVD_EDFTSR_DATA_NBO_WORKERS", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.OW_ACTPRDRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OW_ACTPRDRATES_SDIM", "id": "OWSB_HIVE.OW_ACTPRDRATES_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_OW_ACTPRDRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_OW_ACTPRDRATES_SDIM", "id": "OWSB_HIVE.T_OW_ACTPRDRATES_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.V_REPORT_SOK_LM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_REPORT_SOK_LM", "id": "OWSB_HIVE.V_REPORT_SOK_LM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.OW_ACTTRNRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.OW_ACTTRNRATES_SDIM", "id": "OWSB_HIVE.OW_ACTTRNRATES_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_OW_ACTTRNRATES_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_OW_ACTTRNRATES_SDIM", "id": "OWSB_HIVE.T_OW_ACTTRNRATES_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_OW_CURRTARIFFCOLL_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_OW_CURRTARIFFCOLL_SDIM", "id": "OWSB_HIVE.T_OW_CURRTARIFFCOLL_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_PNL_PRODUCTS_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_PNL_PRODUCTS_VOLUME", "id": "OWSB_HIVE.T_PNL_PRODUCTS_VOLUME", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_TRANSACT_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_TRANSACT_VOLUME", "id": "OWSB_HIVE.T_TRANSACT_VOLUME", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_EXCHANGE_RATE", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_EXCHANGE_RATE", "id": "OWSB_HIVE.T_EXCHANGE_RATE", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_SALARY_PROFIT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_SALARY_PROFIT", "id": "OWSB_HIVE.T_SALARY_PROFIT", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_SALARY_RECIPIENT", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_SALARY_RECIPIENT", "id": "OWSB_HIVE.T_SALARY_RECIPIENT", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_PROFIT.EXEC_OWSB_KLO_BALANCE_CLEANED", "labels": ["Node"], "properties": {"name": "OWSB_PROFIT.EXEC_OWSB_KLO_BALANCE_CLEANED", "id": "OWSB_PROFIT.EXEC_OWSB_KLO_BALANCE_CLEANED", "type": "SYNONYM"}}
+{"type": "node", "id": "OWSB_PROFIT.T_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_PROFIT.T_VOLUME", "id": "OWSB_PROFIT.T_VOLUME", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_HDB_SOK_LM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_HDB_SOK_LM", "id": "OWSB_HIVE.T_HDB_SOK_LM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.SKB_PERIMETER", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.SKB_PERIMETER", "id": "OWSB_HIVE.SKB_PERIMETER", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_UK_2_INN_SPARK_ALL", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_UK_2_INN_SPARK_ALL", "id": "OWSB_HIVE.T_UK_2_INN_SPARK_ALL", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_COMPANY_CONTRACT_SPARK", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_COMPANY_CONTRACT_SPARK", "id": "OWSB_HIVE.T_COMPANY_CONTRACT_SPARK", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.SPARKSTATCONTRACT_SAGG", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.SPARKSTATCONTRACT_SAGG", "id": "OWSB_HIVE.SPARKSTATCONTRACT_SAGG", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_FINANCE_RESULTS_SPARK", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_FINANCE_RESULTS_SPARK", "id": "OWSB_HIVE.T_FINANCE_RESULTS_SPARK", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_SPARK_NUM_EMP", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_SPARK_NUM_EMP", "id": "OWSB_HIVE.T_SPARK_NUM_EMP", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.SPARKWORKERSRANGE_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.SPARKWORKERSRANGE_SDIM", "id": "OWSB_HIVE.SPARKWORKERSRANGE_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_SPARK_OKVED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_SPARK_OKVED", "id": "OWSB_HIVE.T_SPARK_OKVED", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.SPARKOKVED_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.SPARKOKVED_SDIM", "id": "OWSB_HIVE.SPARKOKVED_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.SPARKCOMPANY2OKVED_VHIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.SPARKCOMPANY2OKVED_VHIST", "id": "OWSB_HIVE.SPARKCOMPANY2OKVED_VHIST", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_SPARK_REG_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_SPARK_REG_DATA", "id": "OWSB_HIVE.T_SPARK_REG_DATA", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.SPARKREGION_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.SPARKREGION_SDIM", "id": "OWSB_HIVE.SPARKREGION_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.SPARKOKATO_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.SPARKOKATO_SDIM", "id": "OWSB_HIVE.SPARKOKATO_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.SPARKCOMPANY_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.SPARKCOMPANY_SDIM", "id": "OWSB_HIVE.SPARKCOMPANY_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_SPARK_WEB_URLS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_SPARK_WEB_URLS", "id": "OWSB_HIVE.T_SPARK_WEB_URLS", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_ACCOUNTS_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_ACCOUNTS_VOLUME", "id": "OWSB_HIVE.T_ACCOUNTS_VOLUME", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_ACQUIRING_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_ACQUIRING_VOLUME", "id": "OWSB_HIVE.T_ACQUIRING_VOLUME", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.WA_V_CBCLIENT_INDICATOR_SAGG", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.WA_V_CBCLIENT_INDICATOR_SAGG", "id": "OWSB_HIVE.WA_V_CBCLIENT_INDICATOR_SAGG", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_CARDS_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_CARDS_VOLUME", "id": "OWSB_HIVE.T_CARDS_VOLUME", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_CASH_CARD_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_CASH_CARD_VOLUME", "id": "OWSB_HIVE.T_CASH_CARD_VOLUME", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.CARDTRNOPKIND_LDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.CARDTRNOPKIND_LDIM", "id": "OWSB_HIVE.CARDTRNOPKIND_LDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_CASH_OPER_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_CASH_OPER_VOLUME", "id": "OWSB_HIVE.T_CASH_OPER_VOLUME", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.V_ENCASHMENTTYPE_LDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_ENCASHMENTTYPE_LDIM", "id": "OWSB_HIVE.V_ENCASHMENTTYPE_LDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.V_TBENCASHMENT_M_SAGG", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.V_TBENCASHMENT_M_SAGG", "id": "OWSB_HIVE.V_TBENCASHMENT_M_SAGG", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_CUR_CONV_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_CUR_CONV_VOLUME", "id": "OWSB_HIVE.T_CUR_CONV_VOLUME", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.TBPAYDOC_TRAN", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.TBPAYDOC_TRAN", "id": "OWSB_HIVE.TBPAYDOC_TRAN", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_CUR_CTRL_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_CUR_CTRL_VOLUME", "id": "OWSB_HIVE.T_CUR_CTRL_VOLUME", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_CUR_PAY_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_CUR_PAY_VOLUME", "id": "OWSB_HIVE.T_CUR_PAY_VOLUME", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_PAYMENTS_VOLUME", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_PAYMENTS_VOLUME", "id": "OWSB_HIVE.T_PAYMENTS_VOLUME", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.PAYDOCKIND_LOV", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.PAYDOCKIND_LOV", "id": "OWSB_HIVE.PAYDOCKIND_LOV", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_SALARY_PROJECT_MONTH", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_SALARY_PROJECT_MONTH", "id": "OWSB_HIVE.T_SALARY_PROJECT_MONTH", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_SOK_FINEREPORT_DMC", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_SOK_FINEREPORT_DMC", "id": "OWSB_HIVE.T_SOK_FINEREPORT_DMC", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_SOK_FINEREPORT_INN", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_SOK_FINEREPORT_INN", "id": "OWSB_HIVE.T_SOK_FINEREPORT_INN", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_DEFAULT_FLAG", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_DEFAULT_FLAG", "id": "OWSB_HIVE.T_DEFAULT_FLAG", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.CLIENTDEFAULT_SHIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.CLIENTDEFAULT_SHIST", "id": "OWSB_HIVE.CLIENTDEFAULT_SHIST", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_FTS_VED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_FTS_VED", "id": "OWSB_HIVE.T_FTS_VED", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.WA_VED_DECLARATION", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.WA_VED_DECLARATION", "id": "OWSB_HIVE.WA_VED_DECLARATION", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_FNS_FIN_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_FNS_FIN_DATA", "id": "OWSB_HIVE.T_FNS_FIN_DATA", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.SSVD_EDFTSR_DATA_NBO_REV_EXP", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.SSVD_EDFTSR_DATA_NBO_REV_EXP", "id": "OWSB_HIVE.SSVD_EDFTSR_DATA_NBO_REV_EXP", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_FNS_INSURANCE_PAYMENTS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_FNS_INSURANCE_PAYMENTS", "id": "OWSB_HIVE.T_FNS_INSURANCE_PAYMENTS", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DATA_NBO_TAXPAID_INFO", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DATA_NBO_TAXPAID_INFO", "id": "OWSB_HIVE.DATA_NBO_TAXPAID_INFO", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_FNS_NUM_EMP_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_FNS_NUM_EMP_DATA", "id": "OWSB_HIVE.T_FNS_NUM_EMP_DATA", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_FNS_REG_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_FNS_REG_DATA", "id": "OWSB_HIVE.T_FNS_REG_DATA", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_FNS_VED_FLAGS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_FNS_VED_FLAGS", "id": "OWSB_HIVE.T_FNS_VED_FLAGS", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DATA_LER_FOUNDERFGN", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DATA_LER_FOUNDERFGN", "id": "OWSB_HIVE.DATA_LER_FOUNDERFGN", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DATA_LER_PARENTORGS", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DATA_LER_PARENTORGS", "id": "OWSB_HIVE.DATA_LER_PARENTORGS", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DATA_LER_BRANCHES", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DATA_LER_BRANCHES", "id": "OWSB_HIVE.DATA_LER_BRANCHES", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DATA_IER_LICENSES_ACTIVITYKIND", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DATA_IER_LICENSES_ACTIVITYKIND", "id": "OWSB_HIVE.DATA_IER_LICENSES_ACTIVITYKIND", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DATA_LER_LICENSES_ACTIVITYKIND", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DATA_LER_LICENSES_ACTIVITYKIND", "id": "OWSB_HIVE.DATA_LER_LICENSES_ACTIVITYKIND", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_FNS_ISSUES_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_FNS_ISSUES_DATA", "id": "OWSB_HIVE.T_FNS_ISSUES_DATA", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_FNS_ISSUES_DATA_ALL", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_FNS_ISSUES_DATA_ALL", "id": "OWSB_HIVE.T_FNS_ISSUES_DATA_ALL", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.DATA_LER_STATUSES", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.DATA_LER_STATUSES", "id": "OWSB_HIVE.DATA_LER_STATUSES", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_BLACK_LIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_BLACK_LIST", "id": "OWSB_HIVE.T_BLACK_LIST", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.COMPLIANCEMEASURTYPE_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.COMPLIANCEMEASURTYPE_SDIM", "id": "OWSB_HIVE.COMPLIANCEMEASURTYPE_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.COMPLCLNT2REPMEASURE_VHIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.COMPLCLNT2REPMEASURE_VHIST", "id": "OWSB_HIVE.COMPLCLNT2REPMEASURE_VHIST", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.LOANRISKGROUP_SDIM", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.LOANRISKGROUP_SDIM", "id": "OWSB_HIVE.LOANRISKGROUP_SDIM", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.CLIENT2LOANRISKGROUP_VHIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.CLIENT2LOANRISKGROUP_VHIST", "id": "OWSB_HIVE.CLIENT2LOANRISKGROUP_VHIST", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_CLIENT_DMC", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_CLIENT_DMC", "id": "OWSB_HIVE.T_CLIENT_DMC", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_EQ_NUM_EMP_DATA", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_EQ_NUM_EMP_DATA", "id": "OWSB_HIVE.T_EQ_NUM_EMP_DATA", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_EQ_NUM_EMP_DATA_ALL", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_EQ_NUM_EMP_DATA_ALL", "id": "OWSB_HIVE.T_EQ_NUM_EMP_DATA_ALL", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.CLIENTCBQUESTIONNAIRE_VHIST", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.CLIENTCBQUESTIONNAIRE_VHIST", "id": "OWSB_HIVE.CLIENTCBQUESTIONNAIRE_VHIST", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_MSP", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_MSP", "id": "OWSB_HIVE.T_MSP", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_PAYMENTS_GROUPED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_PAYMENTS_GROUPED", "id": "OWSB_HIVE.T_PAYMENTS_GROUPED", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.EXEC_OWSB_PAYMENTS_GROUPED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.EXEC_OWSB_PAYMENTS_GROUPED", "id": "OWSB_HIVE.EXEC_OWSB_PAYMENTS_GROUPED", "type": "TABLE"}}
+{"type": "node", "id": "OWSB_HIVE.T_PAYMENTS_MARKED", "labels": ["Node"], "properties": {"name": "OWSB_HIVE.T_PAYMENTS_MARKED", "id": "OWSB_HIVE.T_PAYMENTS_MARKED", "type": "TABLE"}}
+{"id": "0", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_KLO_PNL_UNMERGED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_KLO_PNL_UNMERGED", "labels": ["Node"]}}
+{"id": "1", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_KLO_PNL_UNMERGED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.V_CBPL_MONTH_SAGG", "labels": ["Node"]}}
+{"id": "2", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_KLO_PNL_UNMERGED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "3", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_DMC_CLIENT2DMC", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_DMC_CLIENT2DMC", "labels": ["Node"]}}
+{"id": "4", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DMC_CLIENT2DMC", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENT2DMC_SHIST", "labels": ["Node"]}}
+{"id": "5", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_DMC_SB", "labels": ["Node"]}}
+{"id": "6", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DMC_SB", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENT2CATEGORY_SHIST", "labels": ["Node"]}}
+{"id": "7", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DMC_SB", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENTCATEGORY_LDIM", "labels": ["Node"]}}
+{"id": "8", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DMC_SB", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DMC_SDIM", "labels": ["Node"]}}
+{"id": "9", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DMC_SB", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_CLIENT2DMC", "labels": ["Node"]}}
+{"id": "10", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DMC_SB", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENT_SDIM", "labels": ["Node"]}}
+{"id": "11", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_KLO_PNL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_KLO_PNL", "labels": ["Node"]}}
+{"id": "12", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_KLO_PNL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CURRENCY_SDIM", "labels": ["Node"]}}
+{"id": "13", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_KLO_PNL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.COMMISSIONSRVC_SDIM", "labels": ["Node"]}}
+{"id": "14", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_KLO_PNL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.ACCOUNTCLAUSE_SDIM", "labels": ["Node"]}}
+{"id": "15", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_KLO_PNL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}}
+{"id": "16", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_KLO_PNL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_KLO_PNL_UNMERGED", "labels": ["Node"]}}
+{"id": "17", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_KLO_BALANCE_UNMERGED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_KLO_BALANCE_UNMERGED", "labels": ["Node"]}}
+{"id": "18", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_KLO_BALANCE_UNMERGED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.V_CLIENTBALANCE_SSTAT", "labels": ["Node"]}}
+{"id": "19", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_KLO_BALANCE_UNMERGED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}}
+{"id": "20", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_KLO_BALANCE_UNMERGED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "21", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_KLO_BALANCE", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_KLO_BALANCE", "labels": ["Node"]}}
+{"id": "22", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_KLO_BALANCE", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_KLO_BALANCE_UNMERGED", "labels": ["Node"]}}
+{"id": "23", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_KLO_BALANCE", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CURRENCY_SDIM", "labels": ["Node"]}}
+{"id": "24", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_3TO4_CCODE_MAPPING", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_3TO4_CCODE_MAPPING", "labels": ["Node"]}}
+{"id": "25", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_3TO4_CCODE_MAPPING", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CBINDICATOR_LDIM", "labels": ["Node"]}}
+{"id": "26", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_3TO4_CCODE_MAPPING", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CBIND2REPIND_SHIST", "labels": ["Node"]}}
+{"id": "27", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_DEALS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_DEALS", "labels": ["Node"]}}
+{"id": "28", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DEALS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.REPAYMENTORDER_LDIM", "labels": ["Node"]}}
+{"id": "29", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DEALS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DEALSTATUS_LOV", "labels": ["Node"]}}
+{"id": "30", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DEALS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DEALCLASS_SDIM", "labels": ["Node"]}}
+{"id": "31", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DEALS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DEALLOAN_SDIM", "labels": ["Node"]}}
+{"id": "32", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DEALS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DEAL2DEAL_SHIST", "labels": ["Node"]}}
+{"id": "33", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DEALS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DEALTYPE_LOV", "labels": ["Node"]}}
+{"id": "34", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DEALS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CURRENCY_SDIM", "labels": ["Node"]}}
+{"id": "35", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DEALS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DEALKIND_LDIM", "labels": ["Node"]}}
+{"id": "36", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DEALS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}}
+{"id": "37", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DEALS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DEAL_SDIM", "labels": ["Node"]}}
+{"id": "38", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DEALS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "39", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_PERIOD_MONTHS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_PERIOD_MONTHS", "labels": ["Node"]}}
+{"id": "40", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_PERIOD_MONTHS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "41", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTTRNRATES_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.BIN$00TVLWD6ZffgU0i+GaxbEw==$0", "labels": ["Node"]}}
+{"id": "42", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CURRTARIFFCOLL_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.BIN$00TVLWEBZffgU0i+GaxbEw==$0", "labels": ["Node"]}}
+{"id": "43", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_NEWDEALRATES_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.BIN$00TVLWD9ZffgU0i+GaxbEw==$0", "labels": ["Node"]}}
+{"id": "44", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_CURRTARIFFCOLL_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.BIN$00TVLWETZffgU0i+GaxbEw==$0", "labels": ["Node"]}}
+{"id": "45", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.C2CLINK_SHIST", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_C2CLINK_SHIST", "labels": ["Node"]}}
+{"id": "46", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.MSP_FNS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_MSP_FNS", "labels": ["Node"]}}
+{"id": "47", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "48", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.HDB_SOK_LM_EXT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.W_HDB_SOK_LM_EXT", "labels": ["Node"]}}
+{"id": "49", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.DEAL2ACCT_SHIST", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_DEAL2ACCT_SHIST", "labels": ["Node"]}}
+{"id": "50", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_NEWDEALRATES_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.BIN$00TVLWEPZffgU0i+GaxbEw==$0", "labels": ["Node"]}}
+{"id": "51", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTPRDRATES_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.BIN$00TVLWD5ZffgU0i+GaxbEw==$0", "labels": ["Node"]}}
+{"id": "52", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_ACTIVE_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_ACTIVE_ACCOUNT", "labels": ["Node"]}}
+{"id": "53", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTIVE_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "54", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTIVE_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENT_SDIM", "labels": ["Node"]}}
+{"id": "55", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTIVE_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.ACCOUNTGROUP_LDIM", "labels": ["Node"]}}
+{"id": "56", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTIVE_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.ACCOUNTEQTYPE_LDIM", "labels": ["Node"]}}
+{"id": "57", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTIVE_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.ACCOUNT_SDIM", "labels": ["Node"]}}
+{"id": "58", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTIVE_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DEAL2ACCT_SHIST", "labels": ["Node"]}}
+{"id": "59", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTIVE_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DEALACCOUNTCONTRACT_SDIM", "labels": ["Node"]}}
+{"id": "60", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_ACTIVE_SALARIES", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_ACTIVE_SALARIES", "labels": ["Node"]}}
+{"id": "61", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTIVE_SALARIES", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.WA_V_CLIENTCOMPENSATION_M_SAGG", "labels": ["Node"]}}
+{"id": "62", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTIVE_SALARIES", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}}
+{"id": "63", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_ACTIVE_CARDS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_ACTIVE_CARDS", "labels": ["Node"]}}
+{"id": "64", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTIVE_CARDS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}}
+{"id": "65", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTIVE_CARDS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CARDINTTYPE_SDIM", "labels": ["Node"]}}
+{"id": "66", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACTIVE_CARDS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OW_CARDTRANSACTION_MONTH_SAGG", "labels": ["Node"]}}
+{"id": "67", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_PAYMENTS_PAYER_INN", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_PAYMENTS_PAYER_INN", "labels": ["Node"]}}
+{"id": "68", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_PAYMENTS_PAYER_INN", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "69", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_PAYMENTS_PAYER_INN", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.EXEC_OWSB_PAYMENTS_MARKED", "labels": ["Node"]}}
+{"id": "70", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_PAYMENTS_BENEF_INN", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_PAYMENTS_BENEF_INN", "labels": ["Node"]}}
+{"id": "71", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_PAYMENTS_BENEF_INN", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "72", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_PAYMENTS_BENEF_INN", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.EXEC_OWSB_PAYMENTS_MARKED", "labels": ["Node"]}}
+{"id": "73", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "74", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_PERIOD_END_DATE", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.UFI_SETUP_CB", "labels": ["Node"]}}
+{"id": "75", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.EXEC_OWSB_KLO_PNL_CLEANED", "labels": ["Node"]}, "end": {"id": "OWSB_PROFIT.T_KLO_PNL_CLEANED", "labels": ["Node"]}}
+{"id": "76", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_REVENUE_SPARK", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_REVENUE_SPARK", "labels": ["Node"]}}
+{"id": "77", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_REVENUE_SPARK", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKCOMPANYADDINFO_VHIST", "labels": ["Node"]}}
+{"id": "78", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_REVENUE_SPARK", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKFINREPFORM_SDIM", "labels": ["Node"]}}
+{"id": "79", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_REVENUE_SPARK", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKFINREPORT_HSTAT", "labels": ["Node"]}}
+{"id": "80", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_CURRENCY_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_CURRENCY_ACCOUNT", "labels": ["Node"]}}
+{"id": "81", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CURRENCY_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "82", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CURRENCY_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENT_SDIM", "labels": ["Node"]}}
+{"id": "83", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CURRENCY_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.ACCOUNTGROUP_LDIM", "labels": ["Node"]}}
+{"id": "84", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CURRENCY_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.ACCOUNTEQTYPE_LDIM", "labels": ["Node"]}}
+{"id": "85", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CURRENCY_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.ACCOUNT_SDIM", "labels": ["Node"]}}
+{"id": "86", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CURRENCY_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DEAL2ACCT_SHIST", "labels": ["Node"]}}
+{"id": "87", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CURRENCY_ACCOUNT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DEALACCOUNTCONTRACT_SDIM", "labels": ["Node"]}}
+{"id": "88", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_USD_TO_RUB", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_USD_TO_RUB", "labels": ["Node"]}}
+{"id": "89", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_USD_TO_RUB", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.EXCHANGERATE_STAT", "labels": ["Node"]}}
+{"id": "90", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_FNS_NAMING", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_FNS_NAMING", "labels": ["Node"]}}
+{"id": "91", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_NAMING", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "92", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_NAMING", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SSVD_EDFTSR_DATA_LER_BASEINFO", "labels": ["Node"]}}
+{"id": "93", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_NAMING", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SSVD_EDFTSR_DATA_IER_BASEINFO", "labels": ["Node"]}}
+{"id": "94", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_OW_NEWDEALRATES_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OW_NEWDEALRATES_SDIM", "labels": ["Node"]}}
+{"id": "95", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_OW_NEWDEALRATES_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_OW_NEWDEALRATES_SDIM", "labels": ["Node"]}}
+{"id": "96", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.CLIENT_EMPLOYEES", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SSVD_EDFTSR_DATA_NBO_WORKERS", "labels": ["Node"]}}
+{"id": "97", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_OW_ACTPRDRATES_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OW_ACTPRDRATES_SDIM", "labels": ["Node"]}}
+{"id": "98", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_OW_ACTPRDRATES_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_OW_ACTPRDRATES_SDIM", "labels": ["Node"]}}
+{"id": "99", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_HDB_SOK_LM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.V_REPORT_SOK_LM", "labels": ["Node"]}}
+{"id": "100", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_HDB_SOK_LM_EXT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.V_REPORT_SOK_LM", "labels": ["Node"]}}
+{"id": "101", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_OW_ACTTRNRATES_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OW_ACTTRNRATES_SDIM", "labels": ["Node"]}}
+{"id": "102", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_OW_ACTTRNRATES_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_OW_ACTTRNRATES_SDIM", "labels": ["Node"]}}
+{"id": "103", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_OW_CURRTARIFFCOLL_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OW_ACTTRNRATES_SDIM", "labels": ["Node"]}}
+{"id": "104", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_OW_CURRTARIFFCOLL_SDIM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_OW_CURRTARIFFCOLL_SDIM", "labels": ["Node"]}}
+{"id": "105", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_PNL_PRODUCTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_PNL_PRODUCTS_VOLUME", "labels": ["Node"]}}
+{"id": "106", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_PNL_PRODUCTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_KLO_PNL", "labels": ["Node"]}}
+{"id": "107", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_TRANSACT_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_TRANSACT_VOLUME", "labels": ["Node"]}}
+{"id": "108", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_TRANSACT_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_ACCOUNTS_VOLUME", "labels": ["Node"]}}
+{"id": "109", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_TRANSACT_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_ACQUIRING_VOLUME", "labels": ["Node"]}}
+{"id": "110", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_TRANSACT_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_CARDS_VOLUME", "labels": ["Node"]}}
+{"id": "111", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_TRANSACT_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_CASH_CARD_VOLUME", "labels": ["Node"]}}
+{"id": "112", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_TRANSACT_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_CASH_OPER_VOLUME", "labels": ["Node"]}}
+{"id": "113", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_TRANSACT_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_CUR_CONV_VOLUME", "labels": ["Node"]}}
+{"id": "114", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_TRANSACT_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_CUR_CTRL_VOLUME", "labels": ["Node"]}}
+{"id": "115", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_TRANSACT_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_CUR_PAY_VOLUME", "labels": ["Node"]}}
+{"id": "116", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_TRANSACT_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PAYMENTS_VOLUME", "labels": ["Node"]}}
+{"id": "117", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_TRANSACT_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PNL_PRODUCTS_VOLUME", "labels": ["Node"]}}
+{"id": "118", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_TRANSACT_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SALARY_PROJECT_MONTH", "labels": ["Node"]}}
+{"id": "119", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_EXCHANGE_RATE", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_EXCHANGE_RATE", "labels": ["Node"]}}
+{"id": "120", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_EXCHANGE_RATE", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.EXCHANGERATE_STAT", "labels": ["Node"]}}
+{"id": "121", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_EXCHANGE_RATE", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CURRENCY_SDIM", "labels": ["Node"]}}
+{"id": "122", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_SALARY_PROFIT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_SALARY_PROFIT", "labels": ["Node"]}}
+{"id": "123", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SALARY_PROFIT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_3TO4_CCODE_MAPPING", "labels": ["Node"]}}
+{"id": "124", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SALARY_PROFIT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_KLO_PNL", "labels": ["Node"]}}
+{"id": "125", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SALARY_PROFIT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SALARY_PROJECT_MONTH", "labels": ["Node"]}}
+{"id": "126", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_SALARY_RECIPIENT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_SALARY_RECIPIENT", "labels": ["Node"]}}
+{"id": "127", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SALARY_RECIPIENT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SALARY_PROJECT_MONTH", "labels": ["Node"]}}
+{"id": "128", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SALARY_RECIPIENT", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "129", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.EXEC_OWSB_KLO_BALANCE_CLEANED", "labels": ["Node"]}, "end": {"id": "OWSB_PROFIT.EXEC_OWSB_KLO_BALANCE_CLEANED", "labels": ["Node"]}}
+{"id": "130", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.EXEC_OWSB_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_PROFIT.T_VOLUME", "labels": ["Node"]}}
+{"id": "131", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.HDB_SOK_LM", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_HDB_SOK_LM", "labels": ["Node"]}}
+{"id": "132", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SKB_PERIMETER", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "133", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_UK_2_INN_SPARK_ALL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_UK_2_INN_SPARK_ALL", "labels": ["Node"]}}
+{"id": "134", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_UK_2_INN_SPARK_ALL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "135", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_UK_2_INN_SPARK_ALL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKCOMPANYADDINFO_VHIST", "labels": ["Node"]}}
+{"id": "136", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_COMPANY_CONTRACT_SPARK", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_COMPANY_CONTRACT_SPARK", "labels": ["Node"]}}
+{"id": "137", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_COMPANY_CONTRACT_SPARK", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_UK_2_INN_SPARK_ALL", "labels": ["Node"]}}
+{"id": "138", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_COMPANY_CONTRACT_SPARK", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKSTATCONTRACT_SAGG", "labels": ["Node"]}}
+{"id": "139", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_FINANCE_RESULTS_SPARK", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_FINANCE_RESULTS_SPARK", "labels": ["Node"]}}
+{"id": "140", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FINANCE_RESULTS_SPARK", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_UK_2_INN_SPARK_ALL", "labels": ["Node"]}}
+{"id": "141", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FINANCE_RESULTS_SPARK", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKFINREPFORM_SDIM", "labels": ["Node"]}}
+{"id": "142", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FINANCE_RESULTS_SPARK", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKFINREPORT_HSTAT", "labels": ["Node"]}}
+{"id": "143", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_SPARK_NUM_EMP", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_SPARK_NUM_EMP", "labels": ["Node"]}}
+{"id": "144", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SPARK_NUM_EMP", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKWORKERSRANGE_SDIM", "labels": ["Node"]}}
+{"id": "145", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SPARK_NUM_EMP", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_UK_2_INN_SPARK_ALL", "labels": ["Node"]}}
+{"id": "146", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SPARK_NUM_EMP", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKCOMPANYADDINFO_VHIST", "labels": ["Node"]}}
+{"id": "147", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_SPARK_OKVED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_SPARK_OKVED", "labels": ["Node"]}}
+{"id": "148", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SPARK_OKVED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKOKVED_SDIM", "labels": ["Node"]}}
+{"id": "149", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SPARK_OKVED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_UK_2_INN_SPARK_ALL", "labels": ["Node"]}}
+{"id": "150", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SPARK_OKVED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKCOMPANY2OKVED_VHIST", "labels": ["Node"]}}
+{"id": "151", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_SPARK_REG_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_SPARK_REG_DATA", "labels": ["Node"]}}
+{"id": "152", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SPARK_REG_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKREGION_SDIM", "labels": ["Node"]}}
+{"id": "153", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SPARK_REG_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKOKATO_SDIM", "labels": ["Node"]}}
+{"id": "154", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SPARK_REG_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKWORKERSRANGE_SDIM", "labels": ["Node"]}}
+{"id": "155", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SPARK_REG_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKCOMPANY_SDIM", "labels": ["Node"]}}
+{"id": "156", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SPARK_REG_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_UK_2_INN_SPARK_ALL", "labels": ["Node"]}}
+{"id": "157", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SPARK_REG_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKCOMPANYADDINFO_VHIST", "labels": ["Node"]}}
+{"id": "158", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_SPARK_WEB_URLS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_SPARK_WEB_URLS", "labels": ["Node"]}}
+{"id": "159", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_ACCOUNTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_ACCOUNTS_VOLUME", "labels": ["Node"]}}
+{"id": "160", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACCOUNTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}}
+{"id": "161", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACCOUNTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_MONTHS", "labels": ["Node"]}}
+{"id": "162", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACCOUNTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.ACCOUNTGROUP_LDIM", "labels": ["Node"]}}
+{"id": "163", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACCOUNTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CURRENCY_SDIM", "labels": ["Node"]}}
+{"id": "164", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACCOUNTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.ACCOUNT_SDIM", "labels": ["Node"]}}
+{"id": "165", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACCOUNTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DEAL2ACCT_SHIST", "labels": ["Node"]}}
+{"id": "166", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACCOUNTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DEALACCOUNTCONTRACT_SDIM", "labels": ["Node"]}}
+{"id": "167", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACCOUNTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "168", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_ACQUIRING_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_ACQUIRING_VOLUME", "labels": ["Node"]}}
+{"id": "169", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACQUIRING_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.WA_V_CBCLIENT_INDICATOR_SAGG", "labels": ["Node"]}}
+{"id": "170", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACQUIRING_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}}
+{"id": "171", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_ACQUIRING_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "172", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_CARDS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_CARDS_VOLUME", "labels": ["Node"]}}
+{"id": "173", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CARDS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}}
+{"id": "174", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CARDS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_MONTHS", "labels": ["Node"]}}
+{"id": "175", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CARDS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OW_CARDTRANSACTION_MONTH_SAGG", "labels": ["Node"]}}
+{"id": "176", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CARDS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "177", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_CASH_CARD_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_CASH_CARD_VOLUME", "labels": ["Node"]}}
+{"id": "178", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CASH_CARD_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CARDTRNOPKIND_LDIM", "labels": ["Node"]}}
+{"id": "179", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CASH_CARD_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CURRENCY_SDIM", "labels": ["Node"]}}
+{"id": "180", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CASH_CARD_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}}
+{"id": "181", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CASH_CARD_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OW_CARDTRANSACTION_MONTH_SAGG", "labels": ["Node"]}}
+{"id": "182", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CASH_CARD_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "183", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_CASH_OPER_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_CASH_OPER_VOLUME", "labels": ["Node"]}}
+{"id": "184", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CASH_OPER_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.V_ENCASHMENTTYPE_LDIM", "labels": ["Node"]}}
+{"id": "185", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CASH_OPER_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.COMMISSIONSRVC_SDIM", "labels": ["Node"]}}
+{"id": "186", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CASH_OPER_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}}
+{"id": "187", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CASH_OPER_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.V_TBENCASHMENT_M_SAGG", "labels": ["Node"]}}
+{"id": "188", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CASH_OPER_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "189", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_CUR_CONV_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_CUR_CONV_VOLUME", "labels": ["Node"]}}
+{"id": "190", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CUR_CONV_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CURRENCY_SDIM", "labels": ["Node"]}}
+{"id": "191", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CUR_CONV_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}}
+{"id": "192", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CUR_CONV_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.TBPAYDOC_TRAN", "labels": ["Node"]}}
+{"id": "193", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CUR_CONV_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "194", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_CUR_CTRL_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_CUR_CTRL_VOLUME", "labels": ["Node"]}}
+{"id": "195", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CUR_CTRL_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CURRENCY_SDIM", "labels": ["Node"]}}
+{"id": "196", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CUR_CTRL_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}}
+{"id": "197", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CUR_CTRL_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.TBPAYDOC_TRAN", "labels": ["Node"]}}
+{"id": "198", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CUR_CTRL_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "199", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_CUR_PAY_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_CUR_PAY_VOLUME", "labels": ["Node"]}}
+{"id": "200", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CUR_PAY_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CURRENCY_SDIM", "labels": ["Node"]}}
+{"id": "201", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CUR_PAY_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}}
+{"id": "202", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CUR_PAY_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.TBPAYDOC_TRAN", "labels": ["Node"]}}
+{"id": "203", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CUR_PAY_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "204", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_PAYMENTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_PAYMENTS_VOLUME", "labels": ["Node"]}}
+{"id": "205", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_PAYMENTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.PAYDOCKIND_LOV", "labels": ["Node"]}}
+{"id": "206", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_PAYMENTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}}
+{"id": "207", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_PAYMENTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.TBPAYDOC_TRAN", "labels": ["Node"]}}
+{"id": "208", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_PAYMENTS_VOLUME", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "209", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_SALARY_PROJECT_MONTH", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_SALARY_PROJECT_MONTH", "labels": ["Node"]}}
+{"id": "210", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SALARY_PROJECT_MONTH", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.WA_V_CLIENTCOMPENSATION_M_SAGG", "labels": ["Node"]}}
+{"id": "211", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SALARY_PROJECT_MONTH", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_DMC_SB", "labels": ["Node"]}}
+{"id": "212", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SALARY_PROJECT_MONTH", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_PERIOD_END_DATE", "labels": ["Node"]}}
+{"id": "213", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SPARK_WEB_URLS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_UK_2_INN_SPARK_ALL", "labels": ["Node"]}}
+{"id": "214", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SPARK_WEB_URLS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SPARKCOMPANYADDINFO_VHIST", "labels": ["Node"]}}
+{"id": "215", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_SOK_FINEREPORT_DMC", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_SOK_FINEREPORT_DMC", "labels": ["Node"]}}
+{"id": "216", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SOK_FINEREPORT_DMC", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.HDB_SOK_LM_EXT", "labels": ["Node"]}}
+{"id": "217", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SOK_FINEREPORT_DMC", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.HDB_SOK_LM", "labels": ["Node"]}}
+{"id": "218", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_SOK_FINEREPORT_INN", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_SOK_FINEREPORT_INN", "labels": ["Node"]}}
+{"id": "219", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SOK_FINEREPORT_INN", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "220", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SOK_FINEREPORT_INN", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.HDB_SOK_LM_EXT", "labels": ["Node"]}}
+{"id": "221", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_SOK_FINEREPORT_INN", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.HDB_SOK_LM", "labels": ["Node"]}}
+{"id": "222", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.EXEC_OWSB_DEFAULT_FLAG", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_DEFAULT_FLAG", "labels": ["Node"]}}
+{"id": "223", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DEFAULT_FLAG", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "224", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DEFAULT_FLAG", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENT_SDIM", "labels": ["Node"]}}
+{"id": "225", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_DEFAULT_FLAG", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENTDEFAULT_SHIST", "labels": ["Node"]}}
+{"id": "226", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.EXEC_OWSB_FTS_VED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_FTS_VED", "labels": ["Node"]}}
+{"id": "227", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FTS_VED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "228", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FTS_VED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.EXCHANGERATE_STAT", "labels": ["Node"]}}
+{"id": "229", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FTS_VED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CURRENCY_SDIM", "labels": ["Node"]}}
+{"id": "230", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FTS_VED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.WA_VED_DECLARATION", "labels": ["Node"]}}
+{"id": "231", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_FNS_FIN_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_FNS_FIN_DATA", "labels": ["Node"]}}
+{"id": "232", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_FIN_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "233", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_FIN_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SSVD_EDFTSR_DATA_NBO_REV_EXP", "labels": ["Node"]}}
+{"id": "234", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_FNS_INSURANCE_PAYMENTS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_FNS_INSURANCE_PAYMENTS", "labels": ["Node"]}}
+{"id": "235", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_INSURANCE_PAYMENTS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "236", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_INSURANCE_PAYMENTS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DATA_NBO_TAXPAID_INFO", "labels": ["Node"]}}
+{"id": "237", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_FNS_NUM_EMP_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_FNS_NUM_EMP_DATA", "labels": ["Node"]}}
+{"id": "238", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_NUM_EMP_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "239", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_NUM_EMP_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SSVD_EDFTSR_DATA_NBO_WORKERS", "labels": ["Node"]}}
+{"id": "240", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_FNS_REG_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_FNS_REG_DATA", "labels": ["Node"]}}
+{"id": "241", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_REG_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "242", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_REG_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SSVD_EDFTSR_DATA_LER_BASEINFO", "labels": ["Node"]}}
+{"id": "243", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_REG_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SSVD_EDFTSR_DATA_IER_BASEINFO", "labels": ["Node"]}}
+{"id": "244", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_FNS_VED_FLAGS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_FNS_VED_FLAGS", "labels": ["Node"]}}
+{"id": "245", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_VED_FLAGS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DATA_LER_FOUNDERFGN", "labels": ["Node"]}}
+{"id": "246", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_VED_FLAGS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DATA_LER_PARENTORGS", "labels": ["Node"]}}
+{"id": "247", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_VED_FLAGS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DATA_LER_BRANCHES", "labels": ["Node"]}}
+{"id": "248", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_VED_FLAGS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DATA_IER_LICENSES_ACTIVITYKIND", "labels": ["Node"]}}
+{"id": "249", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_VED_FLAGS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DATA_LER_LICENSES_ACTIVITYKIND", "labels": ["Node"]}}
+{"id": "250", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_VED_FLAGS", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_FNS_REG_DATA", "labels": ["Node"]}}
+{"id": "251", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_FNS_ISSUES_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_FNS_ISSUES_DATA", "labels": ["Node"]}}
+{"id": "252", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_FNS_ISSUES_DATA_ALL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_FNS_ISSUES_DATA_ALL", "labels": ["Node"]}}
+{"id": "253", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_ISSUES_DATA_ALL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DATA_LER_STATUSES", "labels": ["Node"]}}
+{"id": "254", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_ISSUES_DATA_ALL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.SSVD_EDFTSR_DATA_LER_BASEINFO", "labels": ["Node"]}}
+{"id": "255", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_ISSUES_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "256", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_FNS_ISSUES_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_FNS_ISSUES_DATA_ALL", "labels": ["Node"]}}
+{"id": "257", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_BLACK_LIST", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_BLACK_LIST", "labels": ["Node"]}}
+{"id": "258", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_BLACK_LIST", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "259", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_BLACK_LIST", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.COMPLIANCEMEASURTYPE_SDIM", "labels": ["Node"]}}
+{"id": "260", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_BLACK_LIST", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.COMPLCLNT2REPMEASURE_VHIST", "labels": ["Node"]}}
+{"id": "261", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_BLACK_LIST", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENT_SDIM", "labels": ["Node"]}}
+{"id": "262", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_BLACK_LIST", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.LOANRISKGROUP_SDIM", "labels": ["Node"]}}
+{"id": "263", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_BLACK_LIST", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENT2LOANRISKGROUP_VHIST", "labels": ["Node"]}}
+{"id": "264", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_CLIENT_DMC", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_CLIENT_DMC", "labels": ["Node"]}}
+{"id": "265", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CLIENT_DMC", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "266", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CLIENT_DMC", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENTCATEGORY_LDIM", "labels": ["Node"]}}
+{"id": "267", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CLIENT_DMC", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENT2CATEGORY_SHIST", "labels": ["Node"]}}
+{"id": "268", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CLIENT_DMC", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.DMC_SDIM", "labels": ["Node"]}}
+{"id": "269", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CLIENT_DMC", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENT2DMC_SHIST", "labels": ["Node"]}}
+{"id": "270", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_CLIENT_DMC", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENT_SDIM", "labels": ["Node"]}}
+{"id": "271", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_EQ_NUM_EMP_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_EQ_NUM_EMP_DATA", "labels": ["Node"]}}
+{"id": "272", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_EQ_NUM_EMP_DATA_ALL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_EQ_NUM_EMP_DATA_ALL", "labels": ["Node"]}}
+{"id": "273", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_EQ_NUM_EMP_DATA_ALL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.C2CLINK_SHIST", "labels": ["Node"]}}
+{"id": "274", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_EQ_NUM_EMP_DATA_ALL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENT_SDIM", "labels": ["Node"]}}
+{"id": "275", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_EQ_NUM_EMP_DATA_ALL", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.CLIENTCBQUESTIONNAIRE_VHIST", "labels": ["Node"]}}
+{"id": "276", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_EQ_NUM_EMP_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "277", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_EQ_NUM_EMP_DATA", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_EQ_NUM_EMP_DATA_ALL", "labels": ["Node"]}}
+{"id": "278", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_MSP", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_MSP", "labels": ["Node"]}}
+{"id": "279", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_MSP", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "280", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_MSP", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.MSP_FNS", "labels": ["Node"]}}
+{"id": "281", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_PAYMENTS_GROUPED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_PAYMENTS_GROUPED", "labels": ["Node"]}}
+{"id": "282", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_PAYMENTS_GROUPED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.OWSB_SKB_PERIMETER", "labels": ["Node"]}}
+{"id": "283", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_PAYMENTS_GROUPED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.EXEC_OWSB_PAYMENTS_GROUPED", "labels": ["Node"]}}
+{"id": "284", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.OWSB_PAYMENTS_MARKED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.T_PAYMENTS_MARKED", "labels": ["Node"]}}
+{"id": "285", "type": "relationship", "label": "depends on", "start": {"id": "OWSB_HIVE.V_PAYMENTS_MARKED", "labels": ["Node"]}, "end": {"id": "OWSB_HIVE.EXEC_OWSB_PAYMENTS_MARKED", "labels": ["Node"]}}
